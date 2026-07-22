@@ -9,7 +9,7 @@ int* findDegrees(int** matrix, int matrixSize, int* matrixColSize,int* returnSiz
         for(int j = i+1;j < matrixSize; j++){
             if(matrix[i][j]==1){//遍历到有一个边
                 arr[i]++;
-                arr[j]++;
+                arr[j]++;//由于对称性可以一个边所提供的两个度都找到
             }
         }
     }
