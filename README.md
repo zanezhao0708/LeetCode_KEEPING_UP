@@ -39,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4271-find-the-degree-of-each-vertex](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/4271-find-the-degree-of-each-vertex/) | undefined |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 <!---LeetCode Topics End-->
