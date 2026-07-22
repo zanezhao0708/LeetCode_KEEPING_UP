@@ -27,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1128-remove-all-adjacent-duplicates-in-string/) | undefined |
+## Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4271-find-the-degree-of-each-vertex](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/4271-find-the-degree-of-each-vertex/) | undefined |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4271-find-the-degree-of-each-vertex](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/4271-find-the-degree-of-each-vertex/) | undefined |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4271-find-the-degree-of-each-vertex](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/4271-find-the-degree-of-each-vertex/) | undefined |
 <!---LeetCode Topics End-->
