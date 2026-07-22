@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1005-univalued-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1005-univalued-binary-tree/) | undefined |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1128-remove-all-adjacent-duplicates-in-string/) | undefined |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1128-remove-all-adjacent-duplicates-in-string/) | undefined |
 <!---LeetCode Topics End-->
