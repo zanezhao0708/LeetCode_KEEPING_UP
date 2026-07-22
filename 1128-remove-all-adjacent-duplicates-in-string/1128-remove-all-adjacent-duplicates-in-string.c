@@ -4,7 +4,7 @@ char* removeDuplicates(char* s) {
     if(n == 1)return s;
 
     int top = 0;//此时top永远指向下一个入栈道的位置（是空的）
-    //由于这种设置
+    //由于这种设置比较时利用top-1进行比较
     
     char* stack =(char*)malloc(sizeof(char) * (n+1));//给'\0'留空间
     for (int i = 0; i < n; i++) {
