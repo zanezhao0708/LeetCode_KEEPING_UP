@@ -1,3 +1,4 @@
 int mechanicalAccumulator(int target) {
-    return(target+1)*target/2;
+    if(target == 1) return 1;
+    return target +mechanicalAccumulator(target - 1);
 }
