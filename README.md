@@ -50,14 +50,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0141-linked-list-cycle/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0141-linked-list-cycle/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0141-linked-list-cycle/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0941-sort-array-by-parity](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0941-sort-array-by-parity/) | undefined |
 ## Sorting
