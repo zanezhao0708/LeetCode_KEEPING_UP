@@ -93,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0654-maximum-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0654-maximum-binary-tree/) | undefined |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [100345-qiu-12n-lcof](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/100345-qiu-12n-lcof/) | undefined |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [100345-qiu-12n-lcof](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/100345-qiu-12n-lcof/) | undefined |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [100345-qiu-12n-lcof](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/100345-qiu-12n-lcof/) | undefined |
 <!---LeetCode Topics End-->
