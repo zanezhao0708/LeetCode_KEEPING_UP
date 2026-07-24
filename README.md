@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0203-remove-linked-list-elements](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0203-remove-linked-list-elements/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0234-palindrome-linked-list/) | undefined |
+| [0237-delete-node-in-a-linked-list](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0237-delete-node-in-a-linked-list/) | undefined |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
