@@ -6,7 +6,7 @@
  * };
  */
 
-
+//由于 (kc−a)+a=kc，所以从 kc−a 开始，再走 a 步，就恰好走了 k 圈，回到入环口
 struct ListNode* detectCycle(struct ListNode* head) {
     struct ListNode* slow = head;
     struct ListNode* fast = head;
