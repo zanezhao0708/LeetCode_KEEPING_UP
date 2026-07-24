@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0002-add-two-numbers/) | undefined |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0083-remove-duplicates-from-sorted-list/) | undefined |
 | [0141-linked-list-cycle](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
