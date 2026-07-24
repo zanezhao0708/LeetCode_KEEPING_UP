@@ -2,21 +2,19 @@
  * Note: The returned array must be malloced, assume caller calls free().
  */
 int* findDisappearedNumbers(int* nums, int numsSize, int* returnSize) {
-    int* arr = (int*)malloc(sizeof(int)*numsSize);
-    for(int i;i < numsSize ; i++){
-        arr[i] = 1;
+    //遍历到一个数字，就把当前数字送入数值相应的位置,0代表已占用
+    for(int i = 0;i < numsSize;i++){
+        int index = abs(nums[i]) - 1;  // 注意取绝对值，因为可能已被标记为负
+        if (nums[index] > 0) {
+            nums[index] = -nums[index];
+        }    
     }
-    for(int i;i < numsSize ; i++){
-        arr[nums[i]-1] = 0;
-    }
-    int* ans = (int*)malloc(sizeof(int)*numsSize);
-    int count = 0;
-    for(int i;i < numsSize ; i++){
-        if(arr[i]){
-            ans[count++] = i + 1; 
+    int  count = 0;
+    for(int i = 0;i<numsSize;i++){//收集
+        if(nums[i] > 0){//说明没有对应的数
+            nums[count++] = i + 1;
         }
     }
     *returnSize = count;
-    return ans;
-
+    return nums;
 }
