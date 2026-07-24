@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
+| [0203-remove-linked-list-elements](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0203-remove-linked-list-elements/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0234-palindrome-linked-list/) | undefined |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0002-add-two-numbers/) | undefined |
+| [0203-remove-linked-list-elements](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0203-remove-linked-list-elements/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0234-palindrome-linked-list/) | undefined |
 | [100345-qiu-12n-lcof](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/100345-qiu-12n-lcof/) | undefined |
 ## Brainteaser
