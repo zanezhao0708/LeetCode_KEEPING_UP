@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0203-remove-linked-list-elements/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0234-palindrome-linked-list/) | undefined |
 | [0237-delete-node-in-a-linked-list](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0237-delete-node-in-a-linked-list/) | undefined |
+| [0725-split-linked-list-in-parts](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0725-split-linked-list-in-parts/) | undefined |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1411-convert-binary-number-in-a-linked-list-to-integer/) | undefined |
 | [2299-merge-nodes-in-between-zeros](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/2299-merge-nodes-in-between-zeros/) | undefined |
 ## Two Pointers
