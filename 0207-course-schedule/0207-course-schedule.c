@@ -1,51 +1,69 @@
-/*
-*bool canFinish(int numCourses, int** prerequisites, int prerequisitesSize, int* prerequisitesColSize)
-bool canFinish：判断我是否能学完numCourses 门课程
-int numCourses：学习课程的数量
-int** prerequisites：课程关系表
-int prerequisitesSize：课程关系表长度
-int* prerequisitesColSize:课程关系表的列长
-返回值：能学完返回true
-        不能返回false
-*/
+//等价于拓扑排序判环
+#define QUE_MAX 100000
+
+typedef struct Node {
+    int val;
+    struct Node *next;
+} *GraghNode;
+
+typedef struct gNode {
+    int size;
+    GraghNode *Lists;  // 保存每个节点的邻接节点数组
+} *Gragh;             // 邻接表
+
 bool canFinish(int numCourses, int** prerequisites, int prerequisitesSize, int* prerequisitesColSize){
-    if(prerequisitesSize == 0)
-    {
+    if (numCourses == 0 || numCourses == 1) {
         return true;
     }
-    int * ans = malloc(sizeof(int) * numCourses);
-    int i = 0;
-    for(i = 0; i < numCourses; i++)//初始化为0
-    {
-        ans[i] = 0;
+    
+    Gragh G = (Gragh)malloc(sizeof(struct gNode));// 构建邻接表
+    G->size = numCourses;
+    G->Lists = (GraghNode *)malloc(sizeof(GraghNode)*G->size);//链表头节点数组
+    for (int i = 0; i < G->size; i++) {
+        G->Lists[i] = (GraghNode)malloc(sizeof(struct Node));
+        G->Lists[i]->next = NULL;
     }
-    int m = prerequisitesSize;
-    int j = 0;
-    int res = 0;
-    for(i = 0; i < prerequisitesSize; i++)//更新每个点的入度
-    {
-        ans[prerequisites[i][0]]++;
+    // 初始化入度数组并赋值
+    int *Indegree = (int *)malloc(sizeof(int) * numCourses);
+    memset(Indegree, 0, sizeof(int) * numCourses);
+    for (int i = 0; i < prerequisitesSize; i++) {
+        Indegree[prerequisites[i][0]]++;
+        GraghNode node = (GraghNode)malloc(sizeof(struct Node));
+        node->val = prerequisites[i][0];
+        node->next = G->Lists[prerequisites[i][1]]->next;
+        G->Lists[prerequisites[i][1]]->next = node;
     }
-    for(i = 0; i < numCourses; i++)
-    {
-        if(ans[i] == 0)//当前科目i学完了
-        {
-            res++;//学完的科目总数+1
-            if(res == numCourses)//总数等于我要学的科目，说明我全部可以学完
-            {
-                return true;
-            }
-            for(j = 0; j < prerequisitesSize; j++)//更新以我为入度的点的入度
-            {
-                if(prerequisites[j][1] == i)
-                {
-                    ans[prerequisites[j][0]]--;
-                }
-            }
-            ans[i]--;//避免重复比较
-            i = -1;
+
+    // que保存入度为0的节点
+    int que[QUE_MAX];
+    int head = 0, tail = 0;
+    for (int i = 0; i < numCourses; i++) {
+        if (Indegree[i] == 0) {
+            que[tail++] = i;
         }
     }
-    return false;
-}
 
+    // 保存拓扑排序的数组
+    int *topSortNumber = (int *)malloc(sizeof(int) * numCourses);
+    int count = 0;
+
+    // 入度为0的节点出队并将相邻节点入度减一，若减为0则入队
+    while (head < tail) {
+        int V = que[head];
+        topSortNumber[count++] = V;
+        // 与V相邻的节点入度减一
+        GraghNode node = G->Lists[V]->next;
+        while (node) {
+            Indegree[node->val]--;
+            if (Indegree[node->val] == 0) {
+                que[tail++] = node->val;
+            }
+            node = node->next;
+        }
+        head++;
+    }
+
+    // 若所有节点最终都能入队并出队，则说明有向图无环，能够修完所有课程
+    return count == numCourses;
+
+}
