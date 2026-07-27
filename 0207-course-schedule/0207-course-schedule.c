@@ -22,40 +22,41 @@ bool canFinish(int numCourses, int** prerequisites, int prerequisitesSize, int* 
     for (int i = 0; i < G->size; i++) {
         G->Lists[i] = (GraghNode)malloc(sizeof(struct Node));
         G->Lists[i]->next = NULL;
-    }
+    }//此时各个链表均只有一个头节点
+
+
     // 初始化入度数组并赋值
-    int *Indegree = (int *)malloc(sizeof(int) * numCourses);
-    memset(Indegree, 0, sizeof(int) * numCourses);
+    int *Indegree = (int *)malloc(sizeof(int) * numCourses);//记录每门课的入度
+    memset(Indegree, 0, sizeof(int) * numCourses);//全部初始化为 0，表示一开始默认没有任何先修课。
     for (int i = 0; i < prerequisitesSize; i++) {
         Indegree[prerequisites[i][0]]++;
         GraghNode node = (GraghNode)malloc(sizeof(struct Node));
         node->val = prerequisites[i][0];
-        node->next = G->Lists[prerequisites[i][1]]->next;
+        
+        node->next = G->Lists[prerequisites[i][1]]->next;//头插法
         G->Lists[prerequisites[i][1]]->next = node;
     }
 
     // que保存入度为0的节点
     int que[QUE_MAX];
     int head = 0, tail = 0;
-    for (int i = 0; i < numCourses; i++) {
+    for (int i = 0; i < numCourses; i++) {//存入入度节点
         if (Indegree[i] == 0) {
             que[tail++] = i;
         }
     }
-
-    // 保存拓扑排序的数组
-    int *topSortNumber = (int *)malloc(sizeof(int) * numCourses);
     int count = 0;
 
     // 入度为0的节点出队并将相邻节点入度减一，若减为0则入队
     while (head < tail) {
         int V = que[head];
-        topSortNumber[count++] = V;
+        count++;
+
         // 与V相邻的节点入度减一
         GraghNode node = G->Lists[V]->next;
         while (node) {
             Indegree[node->val]--;
-            if (Indegree[node->val] == 0) {
+            if (Indegree[node->val] == 0) {//此时再把0入度的入队，假如说有环会导致队列里的元素都出去了，但是没有入度为0的节点了
                 que[tail++] = node->val;
             }
             node = node->next;
