@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | undefined |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | undefined |
 | [0111-minimum-depth-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0111-minimum-depth-of-binary-tree/) | undefined |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 | [0111-minimum-depth-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0111-minimum-depth-of-binary-tree/) | undefined |
 | [0207-course-schedule](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0207-course-schedule/) | undefined |
 | [0501-find-mode-in-binary-search-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0501-find-mode-in-binary-search-tree/) | undefined |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | undefined |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | undefined |
 | [0111-minimum-depth-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0111-minimum-depth-of-binary-tree/) | undefined |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0234-palindrome-linked-list/) | undefined |
 | [0654-maximum-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0654-maximum-binary-tree/) | undefined |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1128-remove-all-adjacent-duplicates-in-string/) | undefined |
