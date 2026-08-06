@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
 | [0088-merge-sorted-array](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0088-merge-sorted-array/) | undefined |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | undefined |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | undefined |
@@ -112,11 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
 | [0287-find-the-duplicate-number](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0287-find-the-duplicate-number/) | undefined |
 | [0501-find-mode-in-binary-search-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0501-find-mode-in-binary-search-tree/) | undefined |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | undefined |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | undefined |
 | [0654-maximum-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0654-maximum-binary-tree/) | undefined |
