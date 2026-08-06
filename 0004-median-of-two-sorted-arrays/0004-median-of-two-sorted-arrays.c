@@ -11,13 +11,13 @@ double findMedianSortedArrays(int* nums1, int nums1Size, int* nums2, int nums2Si
         }
     }
     if(c1 == nums1Size){//nums1已经空
-    while(c2 < nums2Size){
-        arr[i++] = nums2[c2++];
+        while(c2 < nums2Size){
+            arr[i++] = nums2[c2++];
         }
     }
     else{//nums2已经空
         while(c1 < nums1Size){
-         arr[i++] = nums1[c1++];
+            arr[i++] = nums1[c1++];
         }
     }
     int total = nums1Size + nums2Size;
