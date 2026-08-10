@@ -11,47 +11,31 @@
  * The sizes of the arrays are returned as *returnColumnSizes array.
  * Note: Both returned array and *columnSizes array must be malloced, assume caller calls free().
  */
-int** levelOrderBottom(struct TreeNode* root,
-                       int* returnSize,
-                       int** returnColumnSizes) {
-
+int** levelOrderBottom(struct TreeNode* root,int* returnSize,int** returnColumnSizes) {
     int** ans = malloc(sizeof(int*) * 2000);
     *returnColumnSizes = malloc(sizeof(int) * 2000);
     *returnSize = 0;
-
-    if (!root)
-        return ans;
+    if (!root)return ans;
 
     struct TreeNode* queue[2000];
     int head = 0, tail = 0;
-
     queue[tail++] = root;
 
     while (head < tail) {
-
         // 当前层节点个数
         int len = tail - head;
-
         ans[*returnSize] = malloc(sizeof(int) * len);
 
         // 只处理当前层的 len 个节点
         for (int i = 0; i < len; i++) {
-
             struct TreeNode* node = queue[head++];
-
             ans[*returnSize][i] = node->val;
-
-            if (node->left)
-                queue[tail++] = node->left;
-
-            if (node->right)
-                queue[tail++] = node->right;
+            if (node->left)queue[tail++] = node->left;
+            if (node->right)queue[tail++] = node->right;
         }
-
         (*returnColumnSizes)[*returnSize] = len;
         (*returnSize)++;
     }
-
     // 翻转各层
     int i = 0;
     int j = *returnSize - 1;
