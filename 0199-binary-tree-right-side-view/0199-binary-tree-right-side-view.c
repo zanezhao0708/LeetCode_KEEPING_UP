@@ -22,7 +22,7 @@ int* rightSideView(struct TreeNode* root, int* returnSize) {
         int len = rear - front;
         int last = rear - 1;
         for(int i = 0;i < len;i++){
-            if(i == len-1)ans[(*returnSize)++] = queue[front]->val;
+            if(i == len-1)ans[(*returnSize)++] = queue[front]->val;//注意入队都是要用“全局”的头
             if(queue[front]->left)queue[rear++] = queue[front]->left;
             if(queue[front]->right)queue[rear++] = queue[front]->right;
             front++;
