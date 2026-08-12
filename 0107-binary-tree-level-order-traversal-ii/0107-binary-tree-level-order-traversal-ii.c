@@ -12,49 +12,46 @@
  * Note: Both returned array and *columnSizes array must be malloced, assume caller calls free().
  */
 int** levelOrderBottom(struct TreeNode* root,int* returnSize,int** returnColumnSizes) {
-    int** ans = malloc(sizeof(int*) * 2000);
+    int** ans = malloc( sizeof(int*) * 2000);
     *returnColumnSizes = malloc(sizeof(int) * 2000);
     *returnSize = 0;
-    if (!root)return ans;
 
+    if(!root)return ans;
+
+    int front = 0,rear = 0;
     struct TreeNode* queue[2000];
-    int head = 0, tail = 0;
-    queue[tail++] = root;
+    queue[rear++] = root;
 
-    while (head < tail) {
-        // 当前层节点个数
-        int len = tail - head;
-        ans[*returnSize] = malloc(sizeof(int) * len);
+    while(front<rear){
+        int start = front;
+        int len = rear - front;
 
-        // 只处理当前层的 len 个节点
-        for (int i = 0; i < len; i++) {
-            struct TreeNode* node = queue[head++];
-            ans[*returnSize][i] = node->val;
-            if (node->left)queue[tail++] = node->left;
-            if (node->right)queue[tail++] = node->right;
+        ans[*returnSize] = malloc( sizeof(int) * len);
+        front = rear;
+        for(int i = start;i < front;i++){
+            ans[*returnSize][i-start] = queue[i]->val;
+            if(queue[i]->left)queue[rear++] = queue[i]->left;
+            if(queue[i]->right)queue[rear++] = queue[i]->right;
         }
-        (*returnColumnSizes)[*returnSize] = len;
-        (*returnSize)++;
+
+        (*returnColumnSizes)[(*returnSize)++] = len;
     }
-    // 翻转各层
     int i = 0;
-    int j = *returnSize - 1;
-
-    while (i < j) {
-
-        // 翻转每层数组的指针
+    int j = *returnSize -1;
+    while(i<j){
         int* temp = ans[i];
         ans[i] = ans[j];
-        ans[j] = temp;
+        ans[j] =  temp;
 
-        // 同时翻转每层节点数
-        int temp_num = (*returnColumnSizes)[i];
+        int tempnum = (*returnColumnSizes)[i];
         (*returnColumnSizes)[i] = (*returnColumnSizes)[j];
-        (*returnColumnSizes)[j] = temp_num;
+        (*returnColumnSizes)[j] = tempnum;
 
         i++;
         j--;
+
     }
+
 
     return ans;
 }
