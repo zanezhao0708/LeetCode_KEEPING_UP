@@ -23,15 +23,14 @@ int** levelOrderBottom(struct TreeNode* root,int* returnSize,int** returnColumnS
     queue[rear++] = root;
 
     while(front<rear){
-        int start = front;
         int len = rear - front;
 
         ans[*returnSize] = malloc( sizeof(int) * len);
-        front = rear;
-        for(int i = start;i < front;i++){
-            ans[*returnSize][i-start] = queue[i]->val;
-            if(queue[i]->left)queue[rear++] = queue[i]->left;
-            if(queue[i]->right)queue[rear++] = queue[i]->right;
+        for(int i = 0;i < len;i++){
+            ans[*returnSize][i] = queue[front]->val;
+            if(queue[front]->left)queue[rear++] = queue[front]->left;
+            if(queue[front]->right)queue[rear++] = queue[front]->right;
+            front++;
         }
 
         (*returnColumnSizes)[(*returnSize)++] = len;
