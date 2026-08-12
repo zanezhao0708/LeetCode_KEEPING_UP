@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | undefined |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0107-binary-tree-level-order-traversal-ii/) | undefined |
 | [0111-minimum-depth-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0111-minimum-depth-of-binary-tree/) | undefined |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0116-populating-next-right-pointers-in-each-node/) | undefined |
 | [0199-binary-tree-right-side-view](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0501-find-mode-in-binary-search-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0501-find-mode-in-binary-search-tree/) | undefined |
 | [0637-average-of-levels-in-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0637-average-of-levels-in-binary-tree/) | undefined |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 | [0111-minimum-depth-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0111-minimum-depth-of-binary-tree/) | undefined |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0116-populating-next-right-pointers-in-each-node/) | undefined |
 | [0199-binary-tree-right-side-view](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0207-course-schedule](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0207-course-schedule/) | undefined |
 | [0501-find-mode-in-binary-search-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0501-find-mode-in-binary-search-tree/) | undefined |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0107-binary-tree-level-order-traversal-ii/) | undefined |
 | [0111-minimum-depth-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0111-minimum-depth-of-binary-tree/) | undefined |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0116-populating-next-right-pointers-in-each-node/) | undefined |
 | [0199-binary-tree-right-side-view](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0207-course-schedule](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0207-course-schedule/) | undefined |
 | [0637-average-of-levels-in-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0637-average-of-levels-in-binary-tree/) | undefined |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | undefined |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0107-binary-tree-level-order-traversal-ii/) | undefined |
 | [0111-minimum-depth-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0111-minimum-depth-of-binary-tree/) | undefined |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0116-populating-next-right-pointers-in-each-node/) | undefined |
 | [0199-binary-tree-right-side-view](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0501-find-mode-in-binary-search-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0501-find-mode-in-binary-search-tree/) | undefined |
 | [0637-average-of-levels-in-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0637-average-of-levels-in-binary-tree/) | undefined |
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0002-add-two-numbers/) | undefined |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0083-remove-duplicates-from-sorted-list/) | undefined |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0116-populating-next-right-pointers-in-each-node/) | undefined |
 | [0141-linked-list-cycle](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
