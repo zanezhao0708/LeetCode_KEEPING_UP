@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | undefined |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0107-binary-tree-level-order-traversal-ii/) | undefined |
 | [0111-minimum-depth-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0111-minimum-depth-of-binary-tree/) | undefined |
+| [0199-binary-tree-right-side-view](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0501-find-mode-in-binary-search-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0501-find-mode-in-binary-search-tree/) | undefined |
 | [0654-maximum-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0654-maximum-binary-tree/) | undefined |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0671-second-minimum-node-in-a-binary-tree/) | undefined |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 | [0111-minimum-depth-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0111-minimum-depth-of-binary-tree/) | undefined |
+| [0199-binary-tree-right-side-view](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0207-course-schedule](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0207-course-schedule/) | undefined |
 | [0501-find-mode-in-binary-search-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0501-find-mode-in-binary-search-tree/) | undefined |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0671-second-minimum-node-in-a-binary-tree/) | undefined |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0107-binary-tree-level-order-traversal-ii/) | undefined |
 | [0111-minimum-depth-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0111-minimum-depth-of-binary-tree/) | undefined |
+| [0199-binary-tree-right-side-view](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0207-course-schedule](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0207-course-schedule/) | undefined |
 | [1005-univalued-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1005-univalued-binary-tree/) | undefined |
 ## Binary Tree
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | undefined |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0107-binary-tree-level-order-traversal-ii/) | undefined |
 | [0111-minimum-depth-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0111-minimum-depth-of-binary-tree/) | undefined |
+| [0199-binary-tree-right-side-view](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0501-find-mode-in-binary-search-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0501-find-mode-in-binary-search-tree/) | undefined |
 | [0654-maximum-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0654-maximum-binary-tree/) | undefined |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0671-second-minimum-node-in-a-binary-tree/) | undefined |
