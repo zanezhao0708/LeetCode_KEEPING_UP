@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0111-minimum-depth-of-binary-tree/) | undefined |
 | [0199-binary-tree-right-side-view](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0501-find-mode-in-binary-search-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0501-find-mode-in-binary-search-tree/) | undefined |
+| [0637-average-of-levels-in-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0637-average-of-levels-in-binary-tree/) | undefined |
 | [0654-maximum-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0654-maximum-binary-tree/) | undefined |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0671-second-minimum-node-in-a-binary-tree/) | undefined |
 | [1005-univalued-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1005-univalued-binary-tree/) | undefined |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0207-course-schedule](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0207-course-schedule/) | undefined |
 | [0501-find-mode-in-binary-search-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0501-find-mode-in-binary-search-tree/) | undefined |
+| [0637-average-of-levels-in-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0637-average-of-levels-in-binary-tree/) | undefined |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0671-second-minimum-node-in-a-binary-tree/) | undefined |
 | [1005-univalued-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1005-univalued-binary-tree/) | undefined |
 ## Breadth-First Search
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0111-minimum-depth-of-binary-tree/) | undefined |
 | [0199-binary-tree-right-side-view](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0207-course-schedule](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0207-course-schedule/) | undefined |
+| [0637-average-of-levels-in-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0637-average-of-levels-in-binary-tree/) | undefined |
 | [1005-univalued-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1005-univalued-binary-tree/) | undefined |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0111-minimum-depth-of-binary-tree/) | undefined |
 | [0199-binary-tree-right-side-view](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0501-find-mode-in-binary-search-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0501-find-mode-in-binary-search-tree/) | undefined |
+| [0637-average-of-levels-in-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0637-average-of-levels-in-binary-tree/) | undefined |
 | [0654-maximum-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0654-maximum-binary-tree/) | undefined |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0671-second-minimum-node-in-a-binary-tree/) | undefined |
 | [1005-univalued-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1005-univalued-binary-tree/) | undefined |
