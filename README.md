@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0515-find-largest-value-in-each-tree-row/) | undefined |
 | [0637-average-of-levels-in-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0637-average-of-levels-in-binary-tree/) | undefined |
 | [0654-maximum-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0654-maximum-binary-tree/) | undefined |
+| [0662-maximum-width-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0662-maximum-width-of-binary-tree/) | undefined |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0671-second-minimum-node-in-a-binary-tree/) | undefined |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0764-n-ary-tree-level-order-traversal/) | undefined |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0998-check-completeness-of-a-binary-tree/) | undefined |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0501-find-mode-in-binary-search-tree/) | undefined |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0515-find-largest-value-in-each-tree-row/) | undefined |
 | [0637-average-of-levels-in-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0637-average-of-levels-in-binary-tree/) | undefined |
+| [0662-maximum-width-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0662-maximum-width-of-binary-tree/) | undefined |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0671-second-minimum-node-in-a-binary-tree/) | undefined |
 | [1005-univalued-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1005-univalued-binary-tree/) | undefined |
 ## Breadth-First Search
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0207-course-schedule/) | undefined |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0515-find-largest-value-in-each-tree-row/) | undefined |
 | [0637-average-of-levels-in-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0637-average-of-levels-in-binary-tree/) | undefined |
+| [0662-maximum-width-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0662-maximum-width-of-binary-tree/) | undefined |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0764-n-ary-tree-level-order-traversal/) | undefined |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0998-check-completeness-of-a-binary-tree/) | undefined |
 | [1005-univalued-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1005-univalued-binary-tree/) | undefined |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0515-find-largest-value-in-each-tree-row/) | undefined |
 | [0637-average-of-levels-in-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0637-average-of-levels-in-binary-tree/) | undefined |
 | [0654-maximum-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0654-maximum-binary-tree/) | undefined |
+| [0662-maximum-width-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0662-maximum-width-of-binary-tree/) | undefined |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0671-second-minimum-node-in-a-binary-tree/) | undefined |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0998-check-completeness-of-a-binary-tree/) | undefined |
 | [1005-univalued-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1005-univalued-binary-tree/) | undefined |
