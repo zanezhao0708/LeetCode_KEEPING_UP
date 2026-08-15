@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0242-valid-anagram/) | undefined |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1128-remove-all-adjacent-duplicates-in-string/) | undefined |
 ## Graph
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0169-majority-element](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0169-majority-element/) | undefined |
 | [0217-contains-duplicate](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0217-contains-duplicate/) | undefined |
+| [0242-valid-anagram](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0242-valid-anagram/) | undefined |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | undefined |
 ## Linked List
 | Problem Name | Difficulty |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0088-merge-sorted-array/) | undefined |
 | [0169-majority-element](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0169-majority-element/) | undefined |
 | [0217-contains-duplicate](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0217-contains-duplicate/) | undefined |
+| [0242-valid-anagram](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0242-valid-anagram/) | undefined |
 | [0941-sort-array-by-parity](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0941-sort-array-by-parity/) | undefined |
 | [0948-sort-an-array](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0948-sort-an-array/) | undefined |
 ## Binary Search Tree
