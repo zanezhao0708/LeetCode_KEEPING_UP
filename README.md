@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | undefined |
 | [0169-majority-element](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0169-majority-element/) | undefined |
 | [0217-contains-duplicate](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0217-contains-duplicate/) | undefined |
+| [0268-missing-number](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0268-missing-number/) | undefined |
 | [0287-find-the-duplicate-number](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0287-find-the-duplicate-number/) | undefined |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | undefined |
 | [0654-maximum-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0654-maximum-binary-tree/) | undefined |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0169-majority-element/) | undefined |
 | [0217-contains-duplicate](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0217-contains-duplicate/) | undefined |
 | [0242-valid-anagram](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0242-valid-anagram/) | undefined |
+| [0268-missing-number](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0268-missing-number/) | undefined |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | undefined |
 ## Linked List
 | Problem Name | Difficulty |
@@ -156,12 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0169-majority-element/) | undefined |
 | [0217-contains-duplicate](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0217-contains-duplicate/) | undefined |
 | [0242-valid-anagram](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0242-valid-anagram/) | undefined |
+| [0268-missing-number](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0268-missing-number/) | undefined |
 | [0941-sort-array-by-parity](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0941-sort-array-by-parity/) | undefined |
 | [0948-sort-an-array](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0948-sort-an-array/) | undefined |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
+| [0268-missing-number](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0268-missing-number/) | undefined |
 | [0287-find-the-duplicate-number](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0287-find-the-duplicate-number/) | undefined |
 | [0501-find-mode-in-binary-search-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0501-find-mode-in-binary-search-tree/) | undefined |
 ## Divide and Conquer
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0268-missing-number/) | undefined |
 | [0287-find-the-duplicate-number](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0287-find-the-duplicate-number/) | undefined |
 | [100345-qiu-12n-lcof](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/100345-qiu-12n-lcof/) | undefined |
 ## Recursion
@@ -197,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0002-add-two-numbers/) | undefined |
+| [0268-missing-number](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0268-missing-number/) | undefined |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1411-convert-binary-number-in-a-linked-list-to-integer/) | undefined |
 ## Simulation
 | Problem Name | Difficulty |
