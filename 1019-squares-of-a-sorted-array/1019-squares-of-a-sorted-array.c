@@ -1,34 +1,18 @@
-/**
- * Note: The returned array must be malloced, assume caller calls free().
- */
-void sort(int *nums,int left,int right){
-    if(left >= right )return ;
+int* sortedSquares(int* nums, int numsSize, int* returnSize) {
+    int* ans = malloc(numsSize * sizeof(int));
+    *returnSize = numsSize;
     
-    int pviot = nums[left];
-    int i = left;
-    int j = right;
-
-    while(i < j){
-        while(i < j && pviot <= nums[j])j--;
-        while(i < j && pviot >= nums[i])i++;
-        if(i < j){
-            int temp = nums[i];
-            nums[i] = nums[j];
-            nums[j] = temp;
+    int i = 0, j = numsSize - 1;
+    for (int p = numsSize - 1; p >= 0; p--) {
+        int x = nums[i] * nums[i];
+        int y = nums[j] * nums[j];
+        if (x > y) {
+            ans[p] = x;
+            i++;
+        } else {
+            ans[p] = y;
+            j--;
         }
     }
-    nums[left] = nums[i];
-    nums[i] = pviot;
-
-    sort(nums,left,i-1);
-    sort(nums,i+1,right);
-}
-
-int* sortedSquares(int* nums, int numsSize, int* returnSize) {
-    for(int i = 0;i < numsSize;i++){
-        nums[i] = nums[i] * nums[i];
-    }
-    sort(nums,0,numsSize-1);
-    *returnSize = numsSize;
-    return nums; 
+    return ans;
 }
