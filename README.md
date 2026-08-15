@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0287-find-the-duplicate-number/) | undefined |
 | [0349-intersection-of-two-arrays](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0349-intersection-of-two-arrays/) | undefined |
 | [0350-intersection-of-two-arrays-ii](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0350-intersection-of-two-arrays-ii/) | undefined |
+| [0414-third-maximum-number](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0414-third-maximum-number/) | undefined |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | undefined |
 | [0654-maximum-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0654-maximum-binary-tree/) | undefined |
 | [0941-sort-array-by-parity](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0941-sort-array-by-parity/) | undefined |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0268-missing-number/) | undefined |
 | [0349-intersection-of-two-arrays](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0349-intersection-of-two-arrays/) | undefined |
 | [0350-intersection-of-two-arrays-ii](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0350-intersection-of-two-arrays-ii/) | undefined |
+| [0414-third-maximum-number](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0414-third-maximum-number/) | undefined |
 | [0941-sort-array-by-parity](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0941-sort-array-by-parity/) | undefined |
 | [0948-sort-an-array](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0948-sort-an-array/) | undefined |
 ## Binary Search Tree
