@@ -1,12 +1,12 @@
 int majorityElement(int* nums, int numsSize) {
-    int ans = 0, hp = 0;
+    int ans = 0, n = 0;
     for (int i = 0; i < numsSize; i++) {
         int x = nums[i];
-        if (hp == 0) {
+        if (n == 0) {
             ans = x;
-            hp = 1;
+            n = 1;
         } else { 
-            hp += x == ans ? 1 : -1;
+            n += x == ans ? 1 : -1;
         }
     }
     return ans;
