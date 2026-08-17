@@ -37,7 +37,7 @@ void dfs(struct TreeNode* root){
 }
 
 int* findMode(struct TreeNode* root,int *returnSize){
-    base = count = maxCount = 0;
+    base = count = maxCount = 0;//记得更新全局变量
     arr = (int*)malloc(sizeof(int)*4001);    
     dfs(root);
     *returnSize = arrSize;
