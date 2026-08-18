@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0207-course-schedule/) | undefined |
+| [1039-find-the-town-judge](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1039-find-the-town-judge/) | undefined |
 | [4271-find-the-degree-of-each-vertex](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/4271-find-the-degree-of-each-vertex/) | undefined |
 ## Array
 | Problem Name | Difficulty |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0941-sort-array-by-parity/) | undefined |
 | [0948-sort-an-array](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0948-sort-an-array/) | undefined |
 | [1019-squares-of-a-sorted-array](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1019-squares-of-a-sorted-array/) | undefined |
+| [1039-find-the-town-judge](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1039-find-the-town-judge/) | undefined |
 | [4271-find-the-degree-of-each-vertex](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/4271-find-the-degree-of-each-vertex/) | undefined |
 ## Matrix
 | Problem Name | Difficulty |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0349-intersection-of-two-arrays/) | undefined |
 | [0350-intersection-of-two-arrays-ii](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0350-intersection-of-two-arrays-ii/) | undefined |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | undefined |
+| [1039-find-the-town-judge](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1039-find-the-town-judge/) | undefined |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
