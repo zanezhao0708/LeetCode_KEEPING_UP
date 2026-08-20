@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0207-course-schedule/) | undefined |
 | [1039-find-the-town-judge](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1039-find-the-town-judge/) | undefined |
+| [1916-find-center-of-star-graph](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1916-find-center-of-star-graph/) | undefined |
 | [4271-find-the-degree-of-each-vertex](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/4271-find-the-degree-of-each-vertex/) | undefined |
 ## Array
 | Problem Name | Difficulty |
