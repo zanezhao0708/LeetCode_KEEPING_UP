@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0637-average-of-levels-in-binary-tree/) | undefined |
 | [0662-maximum-width-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0662-maximum-width-of-binary-tree/) | undefined |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0671-second-minimum-node-in-a-binary-tree/) | undefined |
+| [0695-max-area-of-island](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0695-max-area-of-island/) | undefined |
 | [1005-univalued-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1005-univalued-binary-tree/) | undefined |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0547-number-of-provinces/) | undefined |
 | [0637-average-of-levels-in-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0637-average-of-levels-in-binary-tree/) | undefined |
 | [0662-maximum-width-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0662-maximum-width-of-binary-tree/) | undefined |
+| [0695-max-area-of-island](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0695-max-area-of-island/) | undefined |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0764-n-ary-tree-level-order-traversal/) | undefined |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0998-check-completeness-of-a-binary-tree/) | undefined |
 | [1005-univalued-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1005-univalued-binary-tree/) | undefined |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0414-third-maximum-number/) | undefined |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | undefined |
 | [0654-maximum-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0654-maximum-binary-tree/) | undefined |
+| [0695-max-area-of-island](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0695-max-area-of-island/) | undefined |
 | [0941-sort-array-by-parity](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0941-sort-array-by-parity/) | undefined |
 | [0948-sort-an-array](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0948-sort-an-array/) | undefined |
 | [1019-squares-of-a-sorted-array](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1019-squares-of-a-sorted-array/) | undefined |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0200-number-of-islands/) | undefined |
+| [0695-max-area-of-island](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0695-max-area-of-island/) | undefined |
 | [4271-find-the-degree-of-each-vertex](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/4271-find-the-degree-of-each-vertex/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -275,4 +279,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0200-number-of-islands/) | undefined |
 | [0547-number-of-provinces](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0547-number-of-provinces/) | undefined |
+| [0695-max-area-of-island](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0695-max-area-of-island/) | undefined |
 <!---LeetCode Topics End-->
