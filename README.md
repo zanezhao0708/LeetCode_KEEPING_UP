@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0116-populating-next-right-pointers-in-each-node/) | undefined |
 | [0129-sum-root-to-leaf-numbers](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0129-sum-root-to-leaf-numbers/) | undefined |
 | [0199-binary-tree-right-side-view](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0199-binary-tree-right-side-view/) | undefined |
+| [0200-number-of-islands](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0200-number-of-islands/) | undefined |
 | [0207-course-schedule](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0207-course-schedule/) | undefined |
 | [0501-find-mode-in-binary-search-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0501-find-mode-in-binary-search-tree/) | undefined |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0515-find-largest-value-in-each-tree-row/) | undefined |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0111-minimum-depth-of-binary-tree/) | undefined |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0116-populating-next-right-pointers-in-each-node/) | undefined |
 | [0199-binary-tree-right-side-view](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0199-binary-tree-right-side-view/) | undefined |
+| [0200-number-of-islands](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0200-number-of-islands/) | undefined |
 | [0207-course-schedule](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0207-course-schedule/) | undefined |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0515-find-largest-value-in-each-tree-row/) | undefined |
 | [0547-number-of-provinces](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0547-number-of-provinces/) | undefined |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | undefined |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | undefined |
 | [0169-majority-element](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0169-majority-element/) | undefined |
+| [0200-number-of-islands](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0200-number-of-islands/) | undefined |
 | [0217-contains-duplicate](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0217-contains-duplicate/) | undefined |
 | [0268-missing-number](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0268-missing-number/) | undefined |
 | [0287-find-the-duplicate-number](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0287-find-the-duplicate-number/) | undefined |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0200-number-of-islands/) | undefined |
 | [4271-find-the-degree-of-each-vertex](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/4271-find-the-degree-of-each-vertex/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -269,5 +273,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0200-number-of-islands/) | undefined |
 | [0547-number-of-provinces](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0547-number-of-provinces/) | undefined |
 <!---LeetCode Topics End-->
