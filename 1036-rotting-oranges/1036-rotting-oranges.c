@@ -1,4 +1,5 @@
 int orangesRotting(int** grid, int gridSize, int* gridColSize) {
+    
     int rows = gridSize;
     int cols = gridColSize[0];
 
