@@ -1,67 +1,49 @@
-#define QUE_MAX 2000
+bool canFinish(int numCourses, int** prerequisites,int prerequisitesSize, int* prerequisitesColSize) {
 
-typedef struct Node {    // 定义链表
-    int val;
-    struct Node *next;
-} Node;
+    // graph[i][j] 表示 i 的第 j 个后继课程
+    int graph[2000][2000];
+    int outdegree[2000] = {0};
+    int indegree[2000] = {0};
 
-typedef struct GraghNode {   // 邻接表
-    int size;
-    Node **Lists;            // 每个元素是一个链表头指针
-} GraghNode;
-
-bool canFinish(int numCourses, int** prerequisites, int prerequisitesSize, int* prerequisitesColSize) {
-    if (numCourses == 0) return true;
-
-    // 开始构建邻接表
-    GraghNode *G = (GraghNode *)malloc(sizeof(GraghNode));
-    G->size = numCourses;
-    G->Lists = (Node **)malloc(sizeof(Node *) * G->size);
-
-    for (int i = 0; i < G->size; i++) {
-        G->Lists[i] = (Node *)malloc(sizeof(Node));
-        G->Lists[i]->next = NULL;   // 每个链表只有头结点
-    }
-
-    int *Indegree = (int *)malloc(sizeof(int) * G->size);
-    memset(Indegree, 0, sizeof(int) * G->size);
-
+    // 建图
     for (int i = 0; i < prerequisitesSize; i++) {
-        //[A,B] 等价于 B -> A
-        Indegree[prerequisites[i][0]]++;
+        int course = prerequisites[i][0];
+        int pre = prerequisites[i][1];
 
-        Node *node = (Node *)malloc(sizeof(Node));
-        node->val = prerequisites[i][0];
-
-        node->next = G->Lists[prerequisites[i][1]]->next;
-        G->Lists[prerequisites[i][1]]->next = node;   // 头插法
+        // pre -> course
+        graph[pre][outdegree[pre]++] = course;
+        indegree[course]++;
     }
 
-    int que[QUE_MAX];
-    int head = 0, tail = 0;
+    // 队列，保存当前入度为 0 的节点
+    int queue[2000];
+    int front = 0;
+    int rear = 0;
 
-    for (int i = 0; i < G->size; i++) {
-        if (Indegree[i] == 0)
-            que[tail++] = i;
-    }
-
-    int count = 0;
-
-    while (head < tail) {
-        int idx = que[head++];
-        count++;
-
-        Node *node = G->Lists[idx]->next;
-
-        while (node) {
-            Indegree[node->val]--;
-
-            if (Indegree[node->val] == 0)
-                que[tail++] = node->val;
-
-            node = node->next;
+    for (int i = 0; i < numCourses; i++) {
+        if (indegree[i] == 0) {
+            queue[rear++] = i;
         }
     }
 
+    int count = 0;//已处理的节点个数
+
+    while (front < rear) {
+        int cur = queue[front++];
+        count++;
+
+        // 删除 cur 的所有出边
+        for (int i = 0; i < outdegree[cur]; i++) {
+            int next = graph[cur][i];
+
+            indegree[next]--;
+
+            if (indegree[next] == 0) {
+                queue[rear++] = next;
+            }
+        }
+    }
+
+    // 所有课程都能被拓扑排序 => 无环
     return count == numCourses;
 }
