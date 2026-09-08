@@ -1,13 +1,13 @@
 void sort(int* nums,int left ,int right){
-    if(left >= right)return ;
+    if(left>=right)return;
 
-    int pviot = nums[left];
     int i = left;
     int j = right;
+    int pviot = nums[i];
 
     while(i < j){
-        while(i < j && pviot <= nums[j])j--;
-        while(i < j && pviot >= nums[i])i++;
+        while(i<j &&pviot <= nums[j])j--;
+        while(i<j && pviot >= nums[i])i++;
         if(i < j){
             int temp = nums[i];
             nums[i] = nums[j];
@@ -16,7 +16,6 @@ void sort(int* nums,int left ,int right){
     }
     nums[left] = nums[i];
     nums[i] = pviot;
-
     sort(nums,left,i-1);
     sort(nums,i+1,right);
 }
