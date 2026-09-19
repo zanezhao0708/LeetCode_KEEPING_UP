@@ -5,7 +5,6 @@ void bfs(int** graph, int n, int start, int* visited){
     int rear = 0;
     queue[rear++] = start;
     visited[start] = 1;
-    int count = 0;
 
     while(front < rear){
         int node = queue[front++];
