@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0088-merge-sorted-array/) | undefined |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | undefined |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | undefined |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 | [0169-majority-element](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0169-majority-element/) | undefined |
 | [0200-number-of-islands](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0200-number-of-islands/) | undefined |
 | [0217-contains-duplicate](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0217-contains-duplicate/) | undefined |
@@ -313,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0543-diameter-of-binary-tree/) | undefined |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 <!---LeetCode Topics End-->
