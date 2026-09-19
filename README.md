@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0116-populating-next-right-pointers-in-each-node/) | undefined |
 | [0129-sum-root-to-leaf-numbers](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0129-sum-root-to-leaf-numbers/) | undefined |
 | [0199-binary-tree-right-side-view](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0199-binary-tree-right-side-view/) | undefined |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
 | [0501-find-mode-in-binary-search-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0501-find-mode-in-binary-search-tree/) | undefined |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0515-find-largest-value-in-each-tree-row/) | undefined |
 | [0637-average-of-levels-in-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0637-average-of-levels-in-binary-tree/) | undefined |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0200-number-of-islands](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0200-number-of-islands/) | undefined |
 | [0207-course-schedule](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0207-course-schedule/) | undefined |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
 | [0463-island-perimeter](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0463-island-perimeter/) | undefined |
 | [0501-find-mode-in-binary-search-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0501-find-mode-in-binary-search-tree/) | undefined |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0515-find-largest-value-in-each-tree-row/) | undefined |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0116-populating-next-right-pointers-in-each-node/) | undefined |
 | [0129-sum-root-to-leaf-numbers](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0129-sum-root-to-leaf-numbers/) | undefined |
 | [0199-binary-tree-right-side-view](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0199-binary-tree-right-side-view/) | undefined |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
 | [0501-find-mode-in-binary-search-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0501-find-mode-in-binary-search-tree/) | undefined |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0515-find-largest-value-in-each-tree-row/) | undefined |
 | [0637-average-of-levels-in-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0637-average-of-levels-in-binary-tree/) | undefined |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
 | [0268-missing-number](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0268-missing-number/) | undefined |
 | [0287-find-the-duplicate-number](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0287-find-the-duplicate-number/) | undefined |
 | [0349-intersection-of-two-arrays](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0349-intersection-of-two-arrays/) | undefined |
