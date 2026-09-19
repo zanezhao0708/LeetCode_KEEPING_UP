@@ -1,18 +1,9 @@
 
-void bfs(int** graph, int n, int start, int* visited){
-    int queue[n];
-    int rear = 0;
-    int front = 0;
-    queue[rear++] = start;
-    visited[start] = 1;
-
-    while(front < rear){
-        int node = queue[front++];
-        for(int i = 0;i < n;i++){
-            if(graph[node][i] == 1 && visited[i] != 1){
-                visited[i] = 1; 
-                bfs(graph,n,i,visited);
-            }
+void dfs(int** graph, int n, int start, int* visited){
+    for(int i = 0;i < n;i++){
+        if(graph[start][i] == 1 && visited[i] == 0){
+            visited[i] = 1;
+            dfs(graph,n,i,visited);
         }
     }
 }
@@ -25,7 +16,7 @@ int findCircleNum(int** isConnected, int isConnectedSize, int* isConnectedColSiz
     for(int i = 0;i < isConnectedSize;i++){
         if(visited[i] == 0){
             count++;
-            bfs(isConnected,isConnectedSize,i,visited);
+            dfs(isConnected,isConnectedSize,i,visited);
         }
     }
     return count;
