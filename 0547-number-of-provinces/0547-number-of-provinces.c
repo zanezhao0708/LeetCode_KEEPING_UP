@@ -1,23 +1,26 @@
 
-void dfs(int** graph, int n, int start, int* visited){
-    for(int i = 0;i < n;i++){
-        if(graph[start][i] == 1 && visited[i] == 0){
-            visited[i] = 1;
-            dfs(graph,n,i,visited);
-        }
-    }
+int Find(int* root,int index){
+    if(root[index] != index)root[index] = Find(root,root[index]);
+    return root[index];
+}
+
+void Union(int* root,int index1,int index2){
+    root[Find(root,index1)] = Find(root,index2);
 }
 
 int findCircleNum(int** isConnected, int isConnectedSize, int* isConnectedColSize) {
-    int count = 0;
-    int visited[isConnectedSize];
-    for(int i = 0;i < isConnectedSize;i++)visited[i] = 0;
+    int root[isConnectedSize];
+    for(int i = 0;i<isConnectedSize;i++)root[i] = i;
 
-    for(int i = 0;i < isConnectedSize;i++){
-        if(visited[i] == 0){
-            count++;
-            dfs(isConnected,isConnectedSize,i,visited);
+    for(int i = 0;i<isConnectedSize;i++){
+        for(int j = i+1;j < isConnectedSize;j++){
+            if(isConnected[i][j] == 1)Union(root,i,j);
         }
     }
+    int count = 0;
+    for(int i = 0;i<isConnectedSize;i++){
+        if(root[i] == i)count++;
+    }
     return count;
+
 }
