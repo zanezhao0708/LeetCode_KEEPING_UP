@@ -1,8 +1,8 @@
 
 void bfs(int** graph, int n, int start, int* visited){
     int queue[n];
-    int front = 0;
     int rear = 0;
+    int front = 0;
     queue[rear++] = start;
     visited[start] = 1;
 
@@ -10,7 +10,7 @@ void bfs(int** graph, int n, int start, int* visited){
         int node = queue[front++];
         for(int i = 0;i < n;i++){
             if(graph[node][i] == 1 && visited[i] != 1){
-                visited[i] = 1;
+                visited[i] = 1; 
                 bfs(graph,n,i,visited);
             }
         }
