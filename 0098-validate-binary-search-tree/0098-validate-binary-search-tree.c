@@ -1,21 +1,18 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     struct TreeNode *left;
- *     struct TreeNode *right;
- * };
- */
-bool dfs(struct TreeNode* node, long long left, long long right) {
-    if (node == NULL) {
+bool dfs(struct TreeNode* root, long long* pre) {
+    if (root == NULL) {
         return true;
     }
-    long long x = node->val;
-    return left < x && x < right &&
-           dfs(node->left, left, x) &&
-           dfs(node->right, x, right);
+    if (!dfs(root->left, pre)) { // 左
+        return false;
+    }
+    if (root->val <= *pre) { // 中
+        return false;
+    }
+    *pre = root->val;
+    return dfs(root->right, pre); // 右
 }
 
 bool isValidBST(struct TreeNode* root) {
-    return dfs(root, LLONG_MIN, LLONG_MAX);
+    long long pre = LLONG_MIN;
+    return dfs(root, &pre);
 }
