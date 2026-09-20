@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0695-max-area-of-island/) | undefined |
 | [0733-flood-fill](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0733-flood-fill/) | undefined |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0799-minimum-distance-between-bst-nodes/) | undefined |
+| [0871-keys-and-rooms](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0871-keys-and-rooms/) | undefined |
 | [1005-univalued-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1005-univalued-binary-tree/) | undefined |
 | [2121-find-if-path-exists-in-graph](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/2121-find-if-path-exists-in-graph/) | undefined |
 ## Breadth-First Search
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0733-flood-fill/) | undefined |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0764-n-ary-tree-level-order-traversal/) | undefined |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0799-minimum-distance-between-bst-nodes/) | undefined |
+| [0871-keys-and-rooms](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0871-keys-and-rooms/) | undefined |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0998-check-completeness-of-a-binary-tree/) | undefined |
 | [1005-univalued-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1005-univalued-binary-tree/) | undefined |
 | [1036-rotting-oranges](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1036-rotting-oranges/) | undefined |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0207-course-schedule/) | undefined |
 | [0547-number-of-provinces](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0547-number-of-provinces/) | undefined |
+| [0871-keys-and-rooms](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0871-keys-and-rooms/) | undefined |
 | [1039-find-the-town-judge](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1039-find-the-town-judge/) | undefined |
 | [1916-find-center-of-star-graph](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1916-find-center-of-star-graph/) | undefined |
 | [2121-find-if-path-exists-in-graph](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/2121-find-if-path-exists-in-graph/) | undefined |
