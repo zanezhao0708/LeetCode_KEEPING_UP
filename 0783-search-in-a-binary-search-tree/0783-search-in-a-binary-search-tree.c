@@ -10,8 +10,8 @@ struct TreeNode* ans = NULL;
 
 void dfs(struct TreeNode* root, int num){
     if(!root)return;
-    dfs(root->left,num);
     if(root->val == num)ans = root;
+    if(num < root->left )dfs(root->left,num);
     dfs(root->right,num);
 
 }
