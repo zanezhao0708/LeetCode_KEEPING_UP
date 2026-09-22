@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0671-second-minimum-node-in-a-binary-tree/) | undefined |
 | [0695-max-area-of-island](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0695-max-area-of-island/) | undefined |
 | [0733-flood-fill](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0733-flood-fill/) | undefined |
+| [0744-network-delay-time](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0744-network-delay-time/) | undefined |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0799-minimum-distance-between-bst-nodes/) | undefined |
 | [0871-keys-and-rooms](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0871-keys-and-rooms/) | undefined |
 | [1005-univalued-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1005-univalued-binary-tree/) | undefined |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0662-maximum-width-of-binary-tree/) | undefined |
 | [0695-max-area-of-island](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0695-max-area-of-island/) | undefined |
 | [0733-flood-fill](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0733-flood-fill/) | undefined |
+| [0744-network-delay-time](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0744-network-delay-time/) | undefined |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0764-n-ary-tree-level-order-traversal/) | undefined |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0799-minimum-distance-between-bst-nodes/) | undefined |
 | [0871-keys-and-rooms](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0871-keys-and-rooms/) | undefined |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0207-course-schedule/) | undefined |
 | [0547-number-of-provinces](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0547-number-of-provinces/) | undefined |
+| [0744-network-delay-time](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0744-network-delay-time/) | undefined |
 | [0871-keys-and-rooms](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0871-keys-and-rooms/) | undefined |
 | [1039-find-the-town-judge](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1039-find-the-town-judge/) | undefined |
 | [1916-find-center-of-star-graph](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/1916-find-center-of-star-graph/) | undefined |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0744-network-delay-time](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0744-network-delay-time/) | undefined |
 | [0948-sort-an-array](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0948-sort-an-array/) | undefined |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -336,4 +340,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0744-network-delay-time](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0744-network-delay-time/) | undefined |
+## Dijkstra 算法
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0744-network-delay-time](https://github.com/zanezhao0708/LeetCode_KEEPING_UP/tree/main/0744-network-delay-time/) | undefined |
 <!---LeetCode Topics End-->
